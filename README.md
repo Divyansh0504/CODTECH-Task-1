@@ -1,8 +1,13 @@
 **Name**: Divyansh Baraiya
+
 **Company**: CODTECH IT SOLUTIONS
+
 **ID**: CT6WDS172
+
 **Domain**: Digital Marketing
+
 **Duration**: JUNE TO JULY
+
 **Mentor**: G.SRAVANI
 
 
