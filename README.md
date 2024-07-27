@@ -19,7 +19,7 @@
 Use Mailchimp to set up a workflow for marketing automation. Make automated email sequences according to the actions and habits of users.
 Create automated processes and email templates. Segment the email list according to user demographics and activity. Monitor email campaign performance and make adjustments.
 
-## key Activities
+## Key Activities
 -1. Define Goals and Strategy
 Identify Objectives: Determine what you want to achieve (e.g., increase sales, nurture leads, re-engage inactive users).
 Understand Audience: Define who your target audience is based on demographics and behavior.
